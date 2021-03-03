@@ -1,0 +1,12 @@
+C:\Users\s734435\source\repos\Car Rental\obj\Debug\Car Rental.vbprojAssemblyReference.cache
+C:\Users\s734435\source\repos\Car Rental\obj\Debug\Car_Rental.Form1.resources
+C:\Users\s734435\source\repos\Car Rental\obj\Debug\Car_Rental.Resources.resources
+C:\Users\s734435\source\repos\Car Rental\obj\Debug\Car Rental.vbproj.GenerateResource.cache
+C:\Users\s734435\source\repos\Car Rental\obj\Debug\Car Rental.vbproj.CoreCompileInputs.cache
+C:\Users\s734435\source\repos\Car Rental\bin\Debug\Car Rental.exe.config
+C:\Users\s734435\source\repos\Car Rental\bin\Debug\Car Rental.exe
+C:\Users\s734435\source\repos\Car Rental\bin\Debug\Car Rental.pdb
+C:\Users\s734435\source\repos\Car Rental\bin\Debug\Car Rental.xml
+C:\Users\s734435\source\repos\Car Rental\obj\Debug\Car Rental.exe
+C:\Users\s734435\source\repos\Car Rental\obj\Debug\Car Rental.xml
+C:\Users\s734435\source\repos\Car Rental\obj\Debug\Car Rental.pdb
